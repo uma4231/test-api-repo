@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify tc</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe0816c3-a4f1-496c-a7cc-9d1c6ff07aef</testCaseGuid>
+   <variable>
+      <defaultValue>5</defaultValue>
+      <description></description>
+      <id>2f3533e9-180b-4248-ae0a-cd384c586525</id>
+      <masked>false</masked>
+      <name>getcountlocal</name>
+   </variable>
+</TestCaseEntity>

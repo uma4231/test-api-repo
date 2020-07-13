@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Rest DDT TC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6098fd70-d8d8-4ad8-8134-3f66c5e95c3e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8b3380fe-a600-4919-922a-48b7a2a5519d</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>99f5a638-e6c4-4d82-9a76-80b4f27f9e4b</id>
+      <masked>false</masked>
+      <name>desegnation</name>
+   </variable>
+</TestCaseEntity>

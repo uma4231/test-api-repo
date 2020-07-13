@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>patch_API</name>
+   <tag></tag>
+   <comment>Patch is success</comment>
+   <testCaseGuid>5e2f18d5-646e-4bd9-9041-8da883a6c8d8</testCaseGuid>
+</TestCaseEntity>

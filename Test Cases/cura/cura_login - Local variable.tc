@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>cura_login - Local variable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>19ac6b7e-7751-4fd6-9680-479f684cdc9c</testCaseGuid>
+   <variable>
+      <defaultValue>'https://katalon-demo-cura.herokuapp.com/'</defaultValue>
+      <description></description>
+      <id>85cfd1f2-8c7b-4639-bd79-dd7f23706429</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

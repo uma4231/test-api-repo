@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDriven_Orange</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5fddaa2-94f0-4276-a3c1-fb08d679bc67</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3f115600-1b35-400d-8280-b4fdaebc398a</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b57f174e-6eff-493e-bd06-1c2356ffc0a9</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3fac1d30-1c8c-4fdf-b05f-a2308ff1d3b2</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

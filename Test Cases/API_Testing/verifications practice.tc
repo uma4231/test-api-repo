@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifications practice</name>
+   <tag></tag>
+   <comment>api status code is correct</comment>
+   <testCaseGuid>0607a6c3-519f-42cf-86a4-27dbea19af2c</testCaseGuid>
+</TestCaseEntity>
